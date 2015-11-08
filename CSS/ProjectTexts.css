@@ -1,0 +1,17 @@
+body {
+    background-image: url("../Images/SlidersAndBackgrounds/fluid-wallpaper-1920x1080.jpg");
+}
+
+.ProjectTitle {
+    font-size: 24;
+    font-family: helvetica;
+    text-align: center;
+    color: #D6042B;
+    line-height: 0;
+}
+
+.ProjectBody {
+    font-size: 15;
+    text-align: justify;
+    color: #22D679;
+}

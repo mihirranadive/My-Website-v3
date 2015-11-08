@@ -1,0 +1,62 @@
+* {
+    font-family: Helvetica;
+}
+
+body {
+    
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+    align-content: center;
+}
+
+iframe {
+    width: 900px;
+    height: 393px;
+    margin: 0;
+    padding-top: 0;
+    border: 0;
+    padding-bottom: 0;
+    background: transparent;
+    background-color: #F999;
+    align-content: center;
+}
+
+table.myHeaderTable {
+    table-layout: fixed;
+    width: 100%;
+}
+
+table.myLinks {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    padding-left: 2cm;
+}
+
+table.myLinks td {
+    text-align: center;
+}
+
+table.myLinks img {
+    width: 35px;
+    height: 35px;
+}
+
+#myName {
+    font-family: Helvetica;
+    font-size: 60;
+    color: crimson;
+    text-align: center;
+    line-height: 0px;
+}
+
+#aboutme {
+    font-family: Helvetica;
+    text-align: center;
+    line-height: 0px;
+    color: bisque;
+}
