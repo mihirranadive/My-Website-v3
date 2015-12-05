@@ -2,9 +2,7 @@
     font-family: Helvetica;
 }
 
-body {
-    
-}
+body {}
 
 img {
     max-height: 100%;
@@ -27,6 +25,11 @@ iframe {
 table.myHeaderTable {
     table-layout: fixed;
     width: 100%;
+}
+
+#iSelfie {
+    box-shadow: 10px 10px 15px #7A6C6C;
+    border-radius: 15px;
 }
 
 table.myLinks {
@@ -58,5 +61,14 @@ table.myLinks img {
     font-family: Helvetica;
     text-align: center;
     line-height: 0px;
-    color: bisque;
+    color: burlywood;
+}
+
+.slidertitles {
+    color: olive;
+    text-align: center;
+    font-size: 38px;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 600;
 }
